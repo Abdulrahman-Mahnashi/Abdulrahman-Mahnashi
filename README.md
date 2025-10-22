@@ -1,33 +1,28 @@
-<!-- 💫 Abdulrahman Mahnashi — Professional AI & Data Engineer README -->
+<!-- 💫 Abdulrahman Mahnashi — AI & Data Engineer README -->
+
+<!-- 🌌 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Teaching%20Machines%20to%20Feel%20—%20Born%20from%20Saudi%20Ambition%20🇸🇦&strokeWidth=2&section=footer&reversal=true&fontAlign=50&fontAlignY=50&stroke=E0E0E0&fontColor=FFFFFF&fontSize=45&textBg=false" alt="Abdulrahman Mahnashi Banner" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=33FFB5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrahman+Mahnashi;Artificial+Intelligence+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%93%88;Turning+Data+into+Intelligence+%F0%9F%92%AB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrahman+Mahnashi;Artificial+Intelligence+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%93%88;Turning+Data+into+Intelligence+%F0%9F%92%AB" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">I build intelligent systems that understand humans 🤖</h3>
+
+<!-- 📧 Email -->
+<p align="center">
+  <a href="mailto:abdalrhmanmanashny@gmail.com">📩 abdalrhmanmanashny@gmail.com</a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 💡 I’m **Abdulrahman Mahnashi**, an **AI & Data Engineer** passionate about building systems that think, learn, and adapt.  
 🎯 I specialize in merging **Machine Learning**, **Data Engineering**, and **Web Intelligence** to create AI that feels almost human.  
-🌍 Based in **Riyadh**, I build real-world AI — not just models.
-
----
-
-### 🚀 Featured Projects
-
-- 🧠 **MQSD – AI Trip Planner**  
-  AI system that generates intelligent travel itineraries for Saudi Arabia using LLMs and Flask APIs.  
-  *Tech:* Flask · MongoDB · OpenAI API · Bootstrap  
-
-- 📸 **YOLOv8 Accident Detection**  
-  Deep Learning model detecting and classifying road accidents from images and videos.  
-  *Tech:* Python · YOLOv8 · OpenCV  
-
-- 🧱 **Modern Data Pipeline (dbt + Snowflake)**  
-  Designed a data pipeline from raw → staging → marts for analytics and AI.  
-  *Tech:* dbt · SQL · Snowflake · Airflow  
+🌍 Based in **Saudi Arabia**, part of the new generation shaping the future through **Vision 2030**.  
+📂 For my full list of projects and experience, visit my [LinkedIn Profile](https://www.linkedin.com/in/abdulrahman-mahnashi/).
 
 ---
 
@@ -86,9 +81,15 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:abdalrhmanmanashny@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/abdulrahman-mahnashi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Abdulrahman-Mahnashi"><img src="https://img.shields.io/badge/GitHub-Abdulrahman--Mahnashi-black?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:abdalrhmanmanashny@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdalrhmanmanashny%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrahman-mahnashi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdulrahman%20Mahnashi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Abdulrahman-Mahnashi">
+    <img src="https://img.shields.io/badge/GitHub-Abdulrahman--Mahnashi-111?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
