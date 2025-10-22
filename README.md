@@ -1,8 +1,8 @@
 <!-- 💫 Abdulrahman Mahnashi — AI & Data Engineer README -->
 
-<!-- 🌌 Banner (واضح + تباين عالي) -->
+<!-- 🌌 Banner (Blur effect + clear text) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:0E0E10,100:1A73E8&text=Teaching%20Machines%20to%20Feel%20%E2%80%94%20Born%20from%20Saudi%20Ambition%20🇸🇦&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&fontSize=35&stroke=00E5FF&strokeWidth=1&section=header&desc=Artificial%20Intelligence%20Engineer%20|%20Data%20Engineer&descAlign=50&descAlignY=65&descSize=18" alt="Abdulrahman Mahnashi Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Teaching%20Machines%20to%20Feel%20%E2%80%94%20Born%20from%20Saudi%20Ambition%20🇸🇦&strokeWidth=2&section=footer&reversal=true&fontAlign=50&fontAlignY=50&stroke=00FFFF&fontColor=FFFFFF&fontSize=50&textBg=false" alt="Abdulrahman Mahnashi Banner" />
 </p>
 
 <h1 align="center">
@@ -11,7 +11,6 @@
 
 <h3 align="center">I build intelligent systems that understand humans 🤖</h3>
 
-<!-- 📧 Email سريع -->
 <p align="center">
   <a href="mailto:abdalrhmanmanashny@gmail.com">📩 abdalrhmanmanashny@gmail.com</a>
 </p>
@@ -21,7 +20,7 @@
 ### 👨‍💻 About Me
 💡 I’m **Abdulrahman Mahnashi**, an **AI & Data Engineer** passionate about building systems that think, learn, and adapt.  
 🎯 I merge **Machine Learning**, **Data Engineering**, and **Web Intelligence** to create AI that feels almost human.  
-🌍 Based in **Saudi Arabia**, part of the generation shaping the future through **Vision 2030**.  
+🌍 Based in **Saudi Arabia**, proudly contributing to **Vision 2030**.  
 📂 For projects and experience, visit my [LinkedIn Profile](https://www.linkedin.com/in/abdulrahman-mahnashi/).
 
 ---
@@ -30,43 +29,38 @@
 
 #### 🤖 Artificial Intelligence
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/></a>
-  <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/></a>
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42"/></a>
 </p>
 
 #### 🧠 Data Engineering
 <p align="left">
-  <!-- dbt (fixed, ملوّن وواضح) -->
-  <a href="https://www.getdbt.com" target="_blank"><img alt="dbt" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/dbt.svg" width="42" height="42"/></a>
-  <!-- Snowflake (fixed, سماوي واضح) -->
-  <a href="https://www.snowflake.com" target="_blank"><img alt="Snowflake" src="https://upload.wikimedia.org/wikipedia/en/2/20/Snowflake_Logo.svg" width="42" height="42"/></a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/></a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/></a>
-  <!-- Power BI (fixed, أصفر واضح على الداكن) -->
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="42" height="42"/></a>
+  <a href="https://www.getdbt.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/dbt.svg" width="42" height="42" alt="dbt"/></a>
+  <a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/en/2/20/Snowflake_Logo.svg" width="42" height="42" alt="Snowflake"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42" alt="Power BI"/></a>
 </p>
 
 #### 🌐 Web & API Development
 <p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="42" height="42"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="42" height="42"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="42" height="42" alt="Flask"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="42" height="42" alt="FastAPI"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" alt="Bootstrap"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/></a>
 </p>
 
 #### ⚙️ Tools & Cloud
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="52"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="52" alt="AWS"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/></a>
+  <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/></a>
 </p>
 
 ---
@@ -79,7 +73,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Mahnashi&theme=tokyonight&no-bg=true&row=1" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Mahnashi&theme=tokyonight&no-bg=true&row=1" />
+  </a>
 </p>
 
 ---
