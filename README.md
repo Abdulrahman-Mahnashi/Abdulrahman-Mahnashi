@@ -1,8 +1,8 @@
 <!-- 💫 Abdulrahman Mahnashi — AI & Data Engineer README -->
 
-<!-- 🌌 Banner (Blur effect + clear text) -->
+<!-- 🌌 Banner (Blur effect + clear shorter text) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Teaching%20Machines%20to%20Feel%20%E2%80%94%20Born%20from%20Saudi%20Ambition%20🇸🇦&strokeWidth=2&section=footer&reversal=true&fontAlign=50&fontAlignY=50&stroke=00FFFF&fontColor=FFFFFF&fontSize=50&textBg=false" alt="Abdulrahman Mahnashi Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Teaching%20Machines%20to%20Feel%20%E2%80%94%20Born%20from%20Saudi%20Vision%20🇸🇦&strokeWidth=2&section=footer&reversal=true&fontAlign=50&fontAlignY=50&stroke=00FFFF&fontColor=FFFFFF&fontSize=50&textBg=false" alt="Abdulrahman Mahnashi Banner" />
 </p>
 
 <h1 align="center">
@@ -38,8 +38,8 @@
 
 #### 🧠 Data Engineering
 <p align="left">
-  <a href="https://www.getdbt.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/dbt.svg" width="42" height="42" alt="dbt"/></a>
-  <a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/en/2/20/Snowflake_Logo.svg" width="42" height="42" alt="Snowflake"/></a>
+  <a href="https://www.getdbt.com/"><img src="https://www.svgrepo.com/show/354200/dbt.svg" width="42" height="42" alt="dbt"/></a>
+  <a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="42" height="42" alt="Snowflake"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42" alt="Power BI"/></a>
