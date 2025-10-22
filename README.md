@@ -1,16 +1,36 @@
 <!-- 💫 Abdulrahman Mahnashi — AI & Data Engineer README -->
 
-<!-- 🌌 Banner (Blur + نص أقصر وواضح) -->
+<!-- 🌌 Banner (Blur + ألوان نيون + خط جديد) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Teaching%20Machines%20to%20Feel%20%E2%80%94%20Born%20from%20Saudi%20Vision%20🇸🇦&strokeWidth=2&section=footer&reversal=true&fontAlign=50&fontAlignY=50&stroke=00FFFF&fontColor=FFFFFF&fontSize=48&textBg=false" alt="Abdulrahman Mahnashi Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur
+&height=300
+&color=0:0B132B,50:3A0CA3,100:00D4FF
+&text=Teaching%20Machines%20to%20Feel%20%E2%80%94%20Born%20from%20Saudi%20Vision%20🇸🇦
+&fontColor=E6F7FF
+&fontSize=46
+&stroke=00F5D4
+&strokeWidth=1.5
+&section=footer
+&reversal=true
+&fontAlign=50
+&fontAlignY=50
+&textBg=false"
+    alt="Abdulrahman Mahnashi Banner"
+  />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrahman+Mahnashi;Artificial+Intelligence+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%93%88;Turning+Data+into+Intelligence+%F0%9F%92%AB" alt="Typing Animation" />
-</h1>
+<!-- ✍️ نص متحرك للعبارة نفسها (يظهر مباشرة تحت البنر) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&duration=2800&color=00E5FF&center=true&vCenter=true&width=900&lines=Teaching+Machines+to+Feel+—+Born+from+Saudi+Vision+🇸🇦"
+    alt="Typing Animation"
+  />
+</p>
 
 <h3 align="center">I build intelligent systems that understand humans 🤖</h3>
 
+<!-- 📧 Email -->
 <p align="center">
   <a href="mailto:abdalrhmanmanashny@gmail.com">📩 abdalrhmanmanashny@gmail.com</a>
 </p>
@@ -38,26 +58,17 @@
 
 #### 🧠 Data Engineering
 <p align="left">
-  <!-- dbt (Iconify + لون رسمي) -->
+  <!-- dbt (مضمون من Simple-Icons عبر Iconify) -->
   <a href="https://www.getdbt.com/">
     <img alt="dbt" title="dbt" src="https://api.iconify.design/simple-icons:dbt.svg?color=%23ff694b" width="42" height="42"/>
   </a>
-  <!-- Snowflake (Iconify + لون رسمي) -->
+  <!-- Snowflake (مضمون من Simple-Icons عبر Iconify) -->
   <a href="https://www.snowflake.com/">
     <img alt="Snowflake" title="Snowflake" src="https://api.iconify.design/simple-icons:snowflake.svg?color=%2329b5e8" width="42" height="42"/>
   </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org">
-    <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
-  </a>
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/">
-    <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42"/>
-  </a>
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/></a>
+  <a href="https://powerbi.microsoft.com/"><img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42"/></a>
 </p>
 
 #### 🌐 Web & API Development
